@@ -1,0 +1,30 @@
+@font-face{
+	font-family: poppins;
+	src: url("poppins.ttf");
+}
+
+
+@font-face{
+
+	font-family: poppins;
+	src:url("poppins_bold.ttf");
+	font-weight: bold;		
+}
+
+
+*{
+	font-family: poppins;
+ }
+
+
+ /*styles for the header*/
+
+
+
+ .wave{
+ 	overflow-x:hidden;
+ 	transform: translateY(-100px);
+ }
+
+ 
+
