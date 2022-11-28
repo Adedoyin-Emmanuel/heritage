@@ -57,6 +57,10 @@
 
 @media (max-width:768.98px) {
 
+	body{
+		overflow-x: hidden;
+	}
+
 	#content-contain{
 	    display: flex;
 	    flex-direction: column;
