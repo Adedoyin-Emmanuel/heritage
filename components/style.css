@@ -14,10 +14,12 @@
 
 *{
 	font-family: poppins;
-	overflow-x: hidden;
+	
  }
 
-
+ body{
+ 	overflow-x: hidden;
+ }
 
  /*styles for the header*/
 
