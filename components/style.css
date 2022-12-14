@@ -31,11 +31,6 @@
 }
 
 
-.wave{
-	overflow-x:hidden;
-	transform: translateY(50px);
-}
-
 
 /*unstyled list items*/
 
@@ -53,6 +48,10 @@
 	text-transform: capitalize;
 }
 
+
+.wave-2{
+	transform: translateY(250px);
+}
 
 
 @media (max-width:768.98px) {
