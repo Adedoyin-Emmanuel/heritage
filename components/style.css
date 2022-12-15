@@ -31,6 +31,8 @@
 }
 
 
+/*utility color classes*/
+
 
 /*unstyled list items*/
 
@@ -49,8 +51,14 @@
 }
 
 
-.wave-2{
-	transform: translateY(250px);
+/*waitlist input element styling */
+
+.waitlist-input{
+	width:75%;
+}
+
+.waitlist-label{
+	transform:translateX(80px);
 }
 
 
@@ -77,5 +85,32 @@
 		transform: translateY(0px);
 	}
 
+	.waitlist-input{
+		width:100%;
+	}
+
+	.waitlist-label{
+		transform: translateX(0px);
+	}
+
+
+	.waitlist-button{
+		width:100%;
+	}
+
+
+}
+
+
+@media (min-width:667.98px){
+
+	.form{
+		width:50%
+	}
+
+	body{
+		overflow-x:hidden;
+	}
+	
 }
 
