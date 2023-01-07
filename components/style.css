@@ -50,6 +50,11 @@
 	text-transform: capitalize;
 }
 
+/* custom styles for the navbar */
+.fixed-navbar{
+    position: fixed;
+}
+
 
 /*waitlist input element styling */
 
